@@ -24,7 +24,7 @@ namespace CSHARP
             a = int.Parse(Console.ReadLine());
             b = int.Parse(Console.ReadLine());
             Learn(a, b);
-            Console.WriteLine("1");
+            Console.WriteLine("2");
         }
     }
 }
