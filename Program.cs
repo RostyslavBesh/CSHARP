@@ -25,6 +25,7 @@ namespace CSHARP
             b = int.Parse(Console.ReadLine());
             Learn(a, b);
             Console.WriteLine("This is way 1234");
+            Console.WriteLine("This is way 12");
         }
     }
 }
